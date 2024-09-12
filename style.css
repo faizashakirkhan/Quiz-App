@@ -1,0 +1,50 @@
+#submit{
+    float: right;
+}
+#result-container{
+    width: 400px;
+    height: 200px;
+
+}
+#score{
+    color: green;
+}
+
+  #result-container{
+    background-color:#96cbdc;
+    color: rgb(22, 21, 24);
+  }
+
+#container{
+  font-size: 20px;
+    width: 600px;
+    height: 200px;
+    padding: 30px;
+margin-left: 300px;
+
+}
+#timer{
+    margin-left: 800px;
+    margin-top: 50px;
+    font-size: 20px;
+  }
+ 
+  body{
+    background-image: url(image/line-professional-frame-blue-square-shape-business-powerpoint-background_9c874dd0f4__960_540.avif);
+    background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+   #start-button{
+    margin-left: 550px;
+    padding: 20px;
+    background-color:rgb(110, 164, 181);
+    font-size: 20px;
+   margin-top: 300px;
+  } 
+ #Quizz{
+    margin-left: 570px;
+    font-size: 60px;
+margin-top: 20px;
+ }
+
